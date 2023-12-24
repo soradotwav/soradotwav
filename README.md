@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marvin and I'm a Software Engineer based in Seattle, WA.</h2>
+<h2 align="left">Hi 👋! My name is Marvin and I'm a Computer Science student based in Seattle, WA.</h2>
 
 ###
 
