@@ -57,10 +57,10 @@ Sunday                   145 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Sandbox                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
