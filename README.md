@@ -35,21 +35,21 @@ const soradotwav = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-🌆 Daytime                1111 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌃 Evening                2006 commits        ████████████░░░░░░░░░░░░░   49.30 % 
-🌙 Night                  794 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+🌞 Morning                181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+🌆 Daytime                1195 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌃 Evening                2112 commits        ████████████░░░░░░░░░░░░░   49.33 % 
+🌙 Night                  793 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Wednesday                361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Thursday                 600 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Friday                   945 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Saturday                 473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Sunday                   547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Tuesday                  643 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Wednesday                362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Thursday                 612 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Friday                   981 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Saturday                 541 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Sunday                   557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 
 
