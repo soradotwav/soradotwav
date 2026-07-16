@@ -32,24 +32,24 @@ const soradotwav = {
 ### My stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1855 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-🌆 Daytime                10646 commits       ████████████░░░░░░░░░░░░░   48.28 % 
-🌃 Evening                8494 commits        ██████████░░░░░░░░░░░░░░░   38.52 % 
-🌙 Night                  1057 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+🌞 Morning                121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+🌆 Daytime                1182 commits        ████████░░░░░░░░░░░░░░░░░   30.09 % 
+🌃 Evening                1844 commits        ████████████░░░░░░░░░░░░░   46.95 % 
+🌙 Night                  781 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   5227 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Tuesday                  2520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Wednesday                3720 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Thursday                 2073 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Friday                   4613 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Saturday                 3337 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Sunday                   562 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Monday                   681 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Tuesday                  629 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Thursday                 527 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Friday                   838 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Saturday                 358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Sunday                   544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 ```
 
 
