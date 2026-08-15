@@ -32,7 +32,7 @@ const soradotwav = {
 ### My stats
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-413%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-419%20hrs%2028%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -59,16 +59,40 @@ Sunday                   544 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.57 % 
+C                        1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Python                   1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Swift                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Git Config               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gamestream               4 hrs 52 mins       ██████████████████░░░░░░░   72.96 % 
+psportal                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+spike                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+psplus-findings          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+chiaki-fork              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 40 mins (99.93%)
+
+✍️ 6,227 lines written by AI, 1 lines written by hand (99.98% AI-written)
+
+🔤 1,458,926 Input Tokens, 688,190 Output Tokens
+
+💵 $131.03 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 120 AI Prompts
+
+Opus                     6,446 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 793 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
