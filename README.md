@@ -32,7 +32,7 @@ const soradotwav = {
 ### My stats
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-419%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-420%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -59,38 +59,38 @@ Sunday                   544 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.57 % 
-C                        1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Python                   1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Swift                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Git Config               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Markdown                 2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.96 % 
+Swift                    1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Python                   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+C                        1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 
 🐱‍💻 Projects: 
-gamestream               4 hrs 52 mins       ██████████████████░░░░░░░   72.96 % 
-psportal                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-spike                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-psplus-findings          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-chiaki-fork              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+gamestream               6 hrs 17 mins       ███████████████████░░░░░░   77.69 % 
+psportal                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+spike                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+psplus-findings          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+chiaki-fork              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 40 mins (99.93%)
+⏱ AI Coding Time: 8 hrs 5 mins (99.94%)
 
 ✍️ 6,227 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 1,458,926 Input Tokens, 688,190 Output Tokens
+🔤 2,830,760 Input Tokens, 930,964 Output Tokens
 
-💵 $131.03 Estimated AI Cost This Week
+💵 $173.63 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 120 AI Prompts
+🧠 7 AI Sessions, 138 AI Prompts
 
 Opus                     6,446 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 793 characters per prompt
+📄 Detailed Prompter — average 1,152 characters per prompt
 🔁 Iterative Prompter — average 20 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
