@@ -59,39 +59,39 @@ Sunday                   544 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Swift                    15 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.26 % 
-Other                    6 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Markdown                 4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-C                        3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Python                   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Swift                    13 hrs 34 mins      █████████████░░░░░░░░░░░░   52.24 % 
+Markdown                 3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Other                    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+TypeScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Python                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🐱‍💻 Projects: 
-gamestream               28 hrs 48 mins      █████████████████████░░░░   82.05 % 
-plasma-app-monorepo-v2   3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-chiaki-fork              2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-wocheslander             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+gamestream               21 hrs 47 mins      █████████████████████░░░░   83.87 % 
+plasma-app-monorepo-v2   3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+chiaki-fork              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+wocheslander             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 53 mins (99.36%)
+⏱ AI Coding Time: 25 hrs 45 mins (99.14%)
 
-✍️ 11,986 lines written by AI, 8 lines written by hand (99.93% AI-written)
+✍️ 10,928 lines written by AI, 8 lines written by hand (99.93% AI-written)
 
-🔤 12,576,460 Input Tokens, 3,937,235 Output Tokens
+🔤 9,607,321 Input Tokens, 3,019,599 Output Tokens
 
-💵 $782.66 Estimated AI Cost This Week
+💵 $553.24 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 476 AI Prompts
+🧠 23 AI Sessions, 348 AI Prompts
 
-Opus                     13,450 lines        █████████████████████████   100.00 % 
+Opus                     12,357 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 3,486 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.42% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,880 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.46% of changed lines were hand-edited
 ```
 
 
