@@ -37,21 +37,21 @@ const soradotwav = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-🌆 Daytime                1261 commits        ████████░░░░░░░░░░░░░░░░░   31.03 % 
-🌃 Evening                1895 commits        ████████████░░░░░░░░░░░░░   46.63 % 
-🌙 Night                  787 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+🌞 Morning                121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+🌆 Daytime                1263 commits        ████████░░░░░░░░░░░░░░░░░   31.04 % 
+🌃 Evening                1895 commits        ████████████░░░░░░░░░░░░░   46.57 % 
+🌙 Night                  790 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   780 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Tuesday                  658 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Wednesday                357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Thursday                 529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Friday                   838 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Saturday                 358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Sunday                   544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Monday                   783 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Tuesday                  659 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Thursday                 530 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Friday                   838 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Saturday                 358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Sunday                   544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 ```
 
 
@@ -59,39 +59,38 @@ Sunday                   544 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Swift                    9 hrs 51 mins       █████████████░░░░░░░░░░░░   50.54 % 
-Markdown                 2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-TypeScript               2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Python                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Other                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Swift                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+Markdown                 2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+TypeScript               2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Python                   1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🐱‍💻 Projects: 
-gamestream               15 hrs 39 mins      ████████████████████░░░░░   80.31 % 
-plasma-app-monorepo-v2   3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-chiaki-fork              25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-wocheslander             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+gamestream               6 hrs 33 mins       ████████████████░░░░░░░░░   65.77 % 
+plasma-app-monorepo-v2   3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.41 % 
+wocheslander             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 16 mins (98.85%)
+⏱ AI Coding Time: 9 hrs 45 mins (97.75%)
 
-✍️ 8,635 lines written by AI, 8 lines written by hand (99.91% AI-written)
+✍️ 6,590 lines written by AI, 8 lines written by hand (99.88% AI-written)
 
-🔤 7,898,260 Input Tokens, 2,306,630 Output Tokens
+🔤 3,291,823 Input Tokens, 1,080,919 Output Tokens
 
-💵 $433.46 Estimated AI Cost This Week
+💵 $200.84 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 263 AI Prompts
+🧠 9 AI Sessions, 138 AI Prompts
 
-Opus                     9,043 lines         █████████████████████████   100.00 % 
+Opus                     7,310 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 2,772 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.63% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 724 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.83% of changed lines were hand-edited
 ```
 
 
