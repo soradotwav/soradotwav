@@ -59,38 +59,38 @@ Sunday                   544 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Swift                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-Markdown                 2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-TypeScript               2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Python                   1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TypeScript               2 hrs 5 mins        ██████████████░░░░░░░░░░░   54.24 % 
+Markdown                 48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Swift                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🐱‍💻 Projects: 
-gamestream               6 hrs 33 mins       ████████████████░░░░░░░░░   65.77 % 
-plasma-app-monorepo-v2   3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.41 % 
-wocheslander             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+plasma-app-monorepo-v2   3 hrs 8 mins        ████████████████████░░░░░   81.51 % 
+gamestream               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+wocheslander             16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 45 mins (97.75%)
+⏱ AI Coding Time: 3 hrs 37 mins (94.17%)
 
-✍️ 6,590 lines written by AI, 8 lines written by hand (99.88% AI-written)
+✍️ 3,848 lines written by AI, 8 lines written by hand (99.79% AI-written)
 
-🔤 3,291,823 Input Tokens, 1,080,919 Output Tokens
+🔤 1,658,404 Input Tokens, 383,686 Output Tokens
 
-💵 $200.84 Estimated AI Cost This Week
+💵 $88.34 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 138 AI Prompts
+🧠 7 AI Sessions, 70 AI Prompts
 
-Opus                     7,310 lines         █████████████████████████   100.00 % 
+Opus                     4,503 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📄 Detailed Prompter — average 724 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.83% of changed lines were hand-edited
+🤖 AI-Driven — 99.79% of written lines came from AI
+📄 Detailed Prompter — average 978 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 1.41% of changed lines were hand-edited
 ```
 
 
