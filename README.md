@@ -59,33 +59,16 @@ Sunday                   544 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 mins             ███████████████████████░░   93.43 % 
-HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-plasma-app-monorepo-v2   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (99.88%)
-
-✍️ 132 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 614,353 Input Tokens, 19,257 Output Tokens
-
-💵 $38.49 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Opus                     687 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
