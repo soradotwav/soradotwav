@@ -59,38 +59,33 @@ Sunday                   544 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        ██████████████░░░░░░░░░░░   54.24 % 
-Markdown                 48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Swift                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Markdown                 10 mins             ███████████████████████░░   93.43 % 
+HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 🐱‍💻 Projects: 
-plasma-app-monorepo-v2   3 hrs 8 mins        ████████████████████░░░░░   81.51 % 
-gamestream               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-wocheslander             16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+plasma-app-monorepo-v2   11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (94.17%)
+⏱ AI Coding Time: 11 mins (99.88%)
 
-✍️ 3,848 lines written by AI, 8 lines written by hand (99.79% AI-written)
+✍️ 132 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,658,404 Input Tokens, 383,686 Output Tokens
+🔤 614,353 Input Tokens, 19,257 Output Tokens
 
-💵 $88.34 Estimated AI Cost This Week
+💵 $38.49 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 70 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Opus                     4,503 lines         █████████████████████████   100.00 % 
+Opus                     687 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📄 Detailed Prompter — average 978 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.41% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 104 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
