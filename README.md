@@ -59,43 +59,43 @@ Sunday                   544 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.42 % 
-Markdown                 8 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.78 % 
-TypeScript               4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Metal                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    10 hrs 45 mins      ██████████████░░░░░░░░░░░   55.10 % 
+TypeScript               3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-study-korean             7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-taptics                  6 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-metalfx-runner           6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Code                     3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-plasma-app-monorepo-v2   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+study-korean             7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
+taptics                  6 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+Code                     3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+plasma-app-monorepo-v2   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+are-you-able-to-see-this 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 19 hrs 32 mins (100.0%)
 
-✍️ 3,774 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,886 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,543,478 Input Tokens, 1,691,441 Output Tokens
+🔤 9,891,644 Input Tokens, 1,140,538 Output Tokens
 
-💵 $445.68 Estimated AI Cost This Week
+💵 $329.69 Estimated AI Cost This Week
 
-🧠 72 AI Sessions, 525 AI Prompts
+🧠 69 AI Sessions, 443 AI Prompts
 
-GPT                      2,682 lines         █████████████████░░░░░░░░   67.45 % 
-Fable                    1,266 lines         ████████░░░░░░░░░░░░░░░░░   31.84 % 
-Codex-Cli                28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+GPT                      1,435 lines         ███████████████████░░░░░░   75.93 % 
+Fable                    427 lines           ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+Codex-Cli                28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,297 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 14,414 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
